@@ -1,3 +1,9 @@
+Otro buen ejemplo 
+https://codepen.io/rafaelcastrocouto/pen/LFAes
+https://html5.litten.com/how-to-drag-and-drop-on-an-html5-canvas/
+http://jsfiddle.net/m1erickson/qm9Eb/
+https://html5.litten.com/how-to-drag-and-drop-on-an-html5-canvas/
+
 # Sheets of Paper
 
 Word processor in your browser using HTML and CSS (e.g. for invoices, legal notices, etc.)
